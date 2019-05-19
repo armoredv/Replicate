@@ -1,0 +1,66 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	
+	
+}
+
+.tm-section{
+	background:url(b1.jpg);
+	background-size: cover;
+	
+}
+.tm-logo{
+	position: relative;
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.tm-logo1{
+	padding-top: 2px;
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.tm-section1{
+	background:url(b3.jpg);
+	background-size: cover;
+	margin-top: 2px;
+}
+.tm-section2{
+	background:url(b5.jpg);
+	background-size: cover;
+	
+}
+.tm-logo2{
+	margin-top: 100px;
+	display: block;
+	margin-left:auto;
+	width: 50%;
+	margin-right: auto;
+
+}
+.tm-section3{
+	background:url(b5.jpg);
+	background-size: cover;
+	margin-top: 100px;
+
+}
+.tm-logo3{
+	position: relative;
+	display: block;
+	margin-left: 25%;
+	margin-bottom: 50px;
+}
+.tm-fixed{
+	position: fixed;
+	right: 0px;
+	display: block;
+	top:30%;
+	 
+
+}
+
+
